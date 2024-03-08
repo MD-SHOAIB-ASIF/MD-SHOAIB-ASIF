@@ -1,3 +1,4 @@
+![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Full+stack+developer;Open+Source;Passionate+about+startups)
 
 
 <!--
